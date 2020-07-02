@@ -2,9 +2,9 @@
 
 # Reinforcement Learning [Matteo Pirotta](https://teopir.github.io/)
 
-# Kernel Methods for Machine Learning [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/) and [Jean-Philippe Vert] (http://members.cbio.mines-paristech.fr/~jvert/)
+# Kernel Methods for Machine Learning [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/) and [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/)
 + [Course contents](https://github.com/rmenegaux/kernels-AMMI-2020/blob/master/README.md)
-+ [Labs] (https://github.com/rmenegaux/kernels-AMMI-2020/tree/master/Practical%20Sessions)
++ [Labs](https://github.com/rmenegaux/kernels-AMMI-2020/tree/master/Practical%20Sessions)
 + [Github Repo](https://github.com/rmenegaux/kernels-AMMI-2020)
 
 # Natural Language Processing [Antoine Bordes] (https://www.crunchbase.com/person/antoine-bordes#section-overview)
