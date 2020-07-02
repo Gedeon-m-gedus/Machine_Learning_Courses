@@ -1,5 +1,18 @@
-# AMMI_Courses
-Here is to be a comprehensive list of courses for the African masters in Machine Intelligence (AMMI) at African Institute of Mathematics (AIMS), Rwanda.
+# AMMI_Courses 2019/2020
+
+# Reinforcement Learning [Matteo Pirotta](https://teopir.github.io/)
+
+# Kernel Methods for Machine Learning [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/) and [Jean-Philippe Vert] (http://members.cbio.mines-paristech.fr/~jvert/)
++ [Course contents](https://github.com/rmenegaux/kernels-AMMI-2020/blob/master/README.md)
++ [Labs] (https://github.com/rmenegaux/kernels-AMMI-2020/tree/master/Practical%20Sessions)
++ [Github Repo](https://github.com/rmenegaux/kernels-AMMI-2020)
+
+# Natural Language Processing [Antoine Bordes] (https://www.crunchbase.com/person/antoine-bordes#section-overview)
++ [Slides]
++ [Labs](https://github.com/Gedeon-m-gedus/ammi-2020-bordes-deep-nlp)
+
+
+# AMMI_Courses 2018/2019
 # Foundations of Machine Learning [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth)
 ### Lecture Slides
 + [Linear Regression](https://drive.google.com/open?id=1Xm8aTuuEe7Ku8P1C_SyqQuoLqX1oJl79)
