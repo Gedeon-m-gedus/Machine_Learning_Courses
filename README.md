@@ -1,19 +1,29 @@
 # AMMI_Courses 2019/2020
 
-# Reinforcement Learning [Matteo Pirotta](https://teopir.github.io/)
+## Reinforcement Learning [Matteo Pirotta](https://teopir.github.io/)
 
-# Kernel Methods for Machine Learning [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/) and [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/)
+## Kernel Methods for Machine Learning [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/) and [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/)
 + [Course contents](https://github.com/rmenegaux/kernels-AMMI-2020/blob/master/README.md)
 + [Labs](https://github.com/rmenegaux/kernels-AMMI-2020/tree/master/Practical%20Sessions)
 + [Github Repo](https://github.com/rmenegaux/kernels-AMMI-2020)
 
-# Natural Language Processing [Antoine Bordes] (https://www.crunchbase.com/person/antoine-bordes#section-overview)
+## Natural Language Processing [Antoine Bordes] (https://www.crunchbase.com/person/antoine-bordes#section-overview)
 + [Slides]
 + [Labs](https://github.com/Gedeon-m-gedus/ammi-2020-bordes-deep-nlp)
 
+## Computer vision I [Laurens van der Maaten](http://lvdmaaten.github.io)
++ [Slides]
++ [Labs](https://github.com/Gedeon-m-gedus/convnet_tutorials)
+
+## Computer vision II [Georgia Gkioxari](https://gkioxari.github.io/)
++ [Course contents](https://github.com/gkioxari/aims2020_visualrecognition/blob/master/README.md)
++ [Slides]
++ [Github Repo](https://github.com/gkioxari/aims2020_visualrecognition)
+
+
 
 # AMMI_Courses 2018/2019
-# Foundations of Machine Learning [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth)
+## Foundations of Machine Learning [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth)
 ### Lecture Slides
 + [Linear Regression](https://drive.google.com/open?id=1Xm8aTuuEe7Ku8P1C_SyqQuoLqX1oJl79)
 + [Logistic Regression](https://drive.google.com/open?id=1Yfla4zT4CA2dG2Y8spo25JRBu3_7bjHI)
@@ -45,7 +55,7 @@
 ### Notable References:
 + [Deisenroth et al : Book(Mathematics for Machine Learning)]
 
-# Introduction to Deep Learning [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani)
+## Introduction to Deep Learning [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani)
 ### Lecture Slides
 + [Machine Learning and Spiral Classification](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/01%20-%20ML%20and%20spiral%20classification.pdf)
 + [Convolutional Neural Network](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/02%20-%20CNN.pdf)
