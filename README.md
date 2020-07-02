@@ -20,6 +20,11 @@
 + [Slides]
 + [Github Repo](https://github.com/gkioxari/aims2020_visualrecognition)
 
+## Talks and workshops
+#### Numpy workshop [Ross Barnowski](https://bids.berkeley.edu/people/ross-barnowski)
++ [Notebook](https://github.com/Gedeon-m-gedus/presentation-AIMS-2020/blob/master/presentation.ipynb)
++ [Github repo](https://github.com/Gedeon-m-gedus/presentation-AIMS-2020)
+
 
 
 
