@@ -7,7 +7,7 @@
 + [Labs](https://github.com/rmenegaux/kernels-AMMI-2020/tree/master/Practical%20Sessions)
 + [Github Repo](https://github.com/rmenegaux/kernels-AMMI-2020)
 
-## Natural Language Processing [Antoine Bordes] (https://www.crunchbase.com/person/antoine-bordes#section-overview)
+## Natural Language Processing [Antoine Bordes](https://www.crunchbase.com/person/antoine-bordes#section-overview)
 + [Slides]
 + [Labs](https://github.com/Gedeon-m-gedus/ammi-2020-bordes-deep-nlp)
 
@@ -19,6 +19,7 @@
 + [Course contents](https://github.com/gkioxari/aims2020_visualrecognition/blob/master/README.md)
 + [Slides]
 + [Github Repo](https://github.com/gkioxari/aims2020_visualrecognition)
+
 
 
 
