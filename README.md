@@ -24,6 +24,8 @@
 #### Numpy workshop [Ross Barnowski](https://bids.berkeley.edu/people/ross-barnowski)
 + [Notebook](https://github.com/Gedeon-m-gedus/presentation-AIMS-2020/blob/master/presentation.ipynb)
 + [Github repo](https://github.com/Gedeon-m-gedus/presentation-AIMS-2020)
+#### Scientific Writing [Kris Sankaran](http://krisrs1128.github.io/personal-site/)
++ [Slides](https://drive.google.com/file/d/1jhsy6k_EoOKoXx-l-z69tfSxPYQ7mTA3/view)
 
 
 
